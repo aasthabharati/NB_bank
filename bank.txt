@@ -1,0 +1,2 @@
+String bannk_name = "NB_bank";
+int year =2028
